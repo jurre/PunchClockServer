@@ -15,3 +15,5 @@ gem 'pg'
 gem 'zero_push'
 
 gem 'dotenv'
+
+gem 'foreman'
